@@ -78,5 +78,4 @@ res.status(200).json({ status: 200, data: {}, message: "" });
 ---
 
 ### Database Integration: MongoDB
-# bookingseats
-# bookingseats
+
